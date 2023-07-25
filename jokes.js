@@ -15,8 +15,6 @@ const jokes = [
 
     "What do you call a grandmother who tells jokes? A gram cracker.",
 
-    "What did the lunch lady say to Luke Skywalker? Use the forks, Luke.",
-
     "Why was the cat afraid of the tree? Because of it’s bark!",
 
     "What do you call a horse that likes arts & crafts? A hobby horse.",
@@ -28,6 +26,10 @@ const jokes = [
     "Why don’t lobsters share? Because they are shellfish.",
 
     "What is thin, white, and scary? Homework.",
+
+    "A man walked into a bar... Ouch!",
+
+    "What's one plus one? Window.",
 
     "Do you know what’s really odd? Numbers not divisible by 2.",
 
